@@ -21,7 +21,7 @@ This project features a responsive calculator designed to provide a seamless use
 
 ### Desktop View
 
-![Desktop View](C:\Users\HP\OneDrive\Pictures\Screenshots)
+![Desktop View]("C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2024-06-22 090806.png")
 
 ## How to Use
 
